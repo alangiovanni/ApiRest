@@ -8,8 +8,8 @@ Faça o Download do arquivo zip (apirest.zip) e extraia o seu conteúdo dentro d
 ### Pré-requisistos
 
 * EclipseIDE
-* Postgresql
 * JDK 8.0+
+* Postgresql
 
 ### Instalação e Configuração
 No Eclipse, Importe o apirest.zip em: **File > Import > Maven > Existing Maven Projects > Next** - 
