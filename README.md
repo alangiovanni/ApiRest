@@ -1,5 +1,5 @@
 # ApiRest
-Api Rest com Swagger
+Api Rest com Spring Boot e Swagger-Ui.
 
 ## Iniciando
 
