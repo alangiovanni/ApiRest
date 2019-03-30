@@ -12,7 +12,7 @@ Faça o Download do arquivo zip (apirest.zip) e extraia o seu conteúdo dentro d
 * Postgresql
 
 ### Instalação e Configuração
-No Eclipse, Importe o apirest.zip em: **File > Import > Maven > Existing Maven Projects > Next** - 
+No Eclipse, Importe a pasta apirest em: **File > Import > Maven > Existing Maven Projects > Next** - 
 Selecione a pasta que foi extraída no Workspace e aperte em **Finish.**
 
 Após importado o projeto, o eclipse fará o download de todos os pré-requisitos do projeto. Espere concluir essa etapa.
