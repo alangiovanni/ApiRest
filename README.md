@@ -23,7 +23,7 @@ O Swagger-UI foi implementado com a aplicação REST para se ter uma API Online 
 
 Primeiramente, Inicie a aplicação
 
-No Browser, digite: (http://localhost:8080/swagger-ui.html)
+No Browser, digite: http://localhost:8080/swagger-ui.html
 
 ### Desenvolvido Com
 
