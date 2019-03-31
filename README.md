@@ -8,7 +8,7 @@ Faça o Download do arquivo zip (apirest.zip) e extraia o conteúdo dentro de se
 ### Pré-requisistos
 
 * EclipseIDE
-* JDK 8.0+
+* JDK 8.0
 * Postgresql
 
 ### Instalação e Configuração
